@@ -222,6 +222,13 @@ h2 {
   margin-bottom: 50px;
 }
 
+.greeting {
+  text-align: center;
+}
+.greeting p {
+  color: white;
+}
+
 @media (max-width: 600px) {
   .column {
       flex: 100%
